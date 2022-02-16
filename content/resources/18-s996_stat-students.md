@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-s996-category-theory-for-scientists-spring-2013/af26b3f1e29aef0784fb9d9e9bab1d94_18-S996_stat-students.png
+file: /media/courses/18-s996-category-theory-for-scientists-spring-2013/af26b3f1e29aef0784fb9d9e9bab1d94_18-S996_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: CourseSection
 resourcetype: Image
 title: 18-S996_stat-students.png
 uid: af26b3f1-e29a-ef07-84fb-9d9e9bab1d94

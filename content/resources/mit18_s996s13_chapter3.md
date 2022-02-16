@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information regarding categories and functors,
   without admitting it.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-s996-category-theory-for-scientists-spring-2013/27c14ddd6a3e9911888a138fb0b712e3_MIT18_S996S13_chapter3.pdf
+file: /media/courses/18-s996-category-theory-for-scientists-spring-2013/27c14ddd6a3e9911888a138fb0b712e3_MIT18_S996S13_chapter3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Online Textbooks
+ocw_type: OCWFile
+parent_title: Textbook
+parent_type: CourseSection
 resourcetype: Document
 title: '18.S996S13 Textbook: Categories and Functors, without Admitting it'
 uid: 27c14ddd-6a3e-9911-888a-138fb0b712e3
