@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 77876f98-d3aa-c1b7-bbd1-27c66dd48b01
 resourcetype: Document
 title: '18.S996S13 Project: Proving Causality In Social Science'
 uid: a9f2a10c-c75e-3036-5207-f9c81cb9ccf5

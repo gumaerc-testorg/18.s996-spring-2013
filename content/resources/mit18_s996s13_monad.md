@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 77876f98-d3aa-c1b7-bbd1-27c66dd48b01
 resourcetype: Document
 title: '18.S996S13 Project: In search of a Monad'
 uid: 1920eed7-eb32-5a41-72a2-8b4aa7132b92

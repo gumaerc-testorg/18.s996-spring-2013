@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: CourseSection
+parent_uid: 333ad9bb-2d71-e34a-415e-d9460aa39115
 resourcetype: Document
 title: Category Theory for Scientists text
 uid: 9cf51d13-94fc-107b-aa67-64d553dd0bb6

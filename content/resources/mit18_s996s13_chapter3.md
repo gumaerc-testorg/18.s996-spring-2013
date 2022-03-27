@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: CourseSection
+parent_uid: 333ad9bb-2d71-e34a-415e-d9460aa39115
 resourcetype: Document
 title: '18.S996S13 Textbook: Categories and Functors, without Admitting it'
 uid: 27c14ddd-6a3e-9911-888a-138fb0b712e3

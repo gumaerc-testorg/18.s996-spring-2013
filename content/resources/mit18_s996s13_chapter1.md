@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: CourseSection
+parent_uid: 333ad9bb-2d71-e34a-415e-d9460aa39115
 resourcetype: Document
 title: '18.S996S13 Textbook: Introduction'
 uid: 4b7221e4-a44b-f9ad-512e-ae6efe9d76b8

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 77876f98-d3aa-c1b7-bbd1-27c66dd48b01
 resourcetype: Document
 title: '18.S996S13 Project: Illustration of Category Hilb'
 uid: 55c2ef59-0fc4-492a-1771-49aeebbc2dc5
