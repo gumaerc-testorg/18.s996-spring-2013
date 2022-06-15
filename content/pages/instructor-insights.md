@@ -1,25 +1,23 @@
 ---
 content_type: page
+description: This section provides a course overview, instructor insights, and information
+  on course outcomes, the curriculum, classroom, students, and how time was spent.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
 title: Instructor Insights
 uid: ecf2094e-695d-b57c-53c4-977655e1ee03
 ---
+## Course Overview
 
-//\<!\[CDATA\[ $(function(){ $('#slider').anythingSlider({ theme: 'default', mode: 'horizontal', expand: false, resizeContents: true, showMultiple: false, easing: "swing", buildArrows: true, buildNavigation: false, buildStartStop: false, appendFowardTo: null, appendBackTo: null, appendControlsTo: null, appendNavigationTo: null, appendStartStopTo: null, toggleArrows: false, toggleControls: false, startText: "Start", stopText: "Stop", forwardText: "&raquo;", backText: "&laquo;", tooltipClass: 'tooltip', enableArrows: true, enableNavigation: true, enableStartStop: true, enableKeyboard: true, startPanel: 1, changeBy: 1, hashTags: false, infiniteSlides: true, navigationFormatter: function(index, panel) { return "" + index; }, navigationSize: false, autoPlay: false, autoPlayLocked: false, autoPlayDelayed: false, pauseOnHover: true, stopAtEnd: false, playRtl: false, delay: 3000, resumeDelay: 15000, animationTime: 600, delayBeforeAnimate : 0, onBeforeInitialize: function(e, slider) {}, onInitialized: function(e, slider) {}, onShowStart: function(e, slider) {}, onShowStop: function(e, slider) {}, onShowPause: function(e, slider) {}, onShowUnpause: function(e, slider) {}, onSlideInit: function(e, slider) {}, onSlideBegin: function(e, slider) {}, onSlideComplete: function(slider) {}, onSliderResize: function(e, slider) {}, clickForwardArrow: "click", clickBackArrow: "click", clickControls: "click focusin", clickSlideshow: "click", resumeOnVideoEnd: true, resumeOnVisible: true, addWmodeToObject: "opaque", isVideoPlaying: function(base) { return false; } }); });//\]\]>
-
-Course Overview
----------------
-
-This page focuses on the course 18.S996 _Category Theory for Scientists_ as it was taught by Dr. David Spivak in Spring 2013.
+This page focuses on the course _18.S996_ _Category Theory for Scientists_ as it was taught by Dr. David Spivak in Spring 2013.
 
 This course demonstrated how category theory can be a powerful language for understanding and formalizing common scientific models. The course employed a mathematical tool called an olog (or ontology log), a concept the instructor developed to provide an abstract means for categorizing the general properties of a system. Ologs provide a rigorous mathematical framework for knowledge representation, for the construction of scientific models, and for data storage using linguistic and graphical tools.
 
 During the semester, the power of the tool was tested by its ability to cast taken-for-granted ideas in new light, either by exposing existing weaknesses or flaws in the instructor's and students' understanding, or by highlighting hidden commonalities across scientific fields. In this regard, the course has application for scientists in every discipline.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 Category theory is especially important in algebra, topology, and algebraic geometry, where it is generally covered in courses in these subject areas, typically at the graduate level. But category theory is rarely taught on its own, at least in the US.
 
@@ -27,8 +25,7 @@ For students, the goal of this course was to get an idea of what category theory
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
 {{< quote "Keep everything as grounded as possible; use fully-worked examples." "—Dr. David Spivak" >}}
 
@@ -46,8 +43,7 @@ Make sure you have a good grader. The students will learn nothing if they do not
 
 Some students loved ologs, while others thought they were a bit lame. The point of ologs is to teach people to think about functions in everyday life. Some students found operads to be most interesting and wished we could have covered them earlier. This is certainly possible, at least as motivation.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -63,10 +59,11 @@ This was a mathematics topic course. Topic courses like this one allow students 
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 
-Student Information
--------------------
+## Student Information
 
-![On average, about 18 students take this course each year.]({{< resource_file af26b3f1-e29a-ef07-84fb-9d9e9bab1d94 >}})
+### Enrollment
+
+18 students
 
 ### Breakdown by Year
 
@@ -78,21 +75,18 @@ About 1/3 math majors, 2/3 students from other science and engineering disciplin
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Three class sessions per week; 1 hour per session; 36 sessions total
-*   Classes were mainly in lecture format, with some group work. Each class session covered a portion of the textbook, which was written for this course by the instructor. Questions and comments were encouraged.
-*   The last 2 weeks were spent on oral presentations given by students to satisfy the final project requirement.
+- Three class sessions per week; 1 hour per session; 36 sessions total
+- Classes were mainly in lecture format, with some group work. Each class session covered a portion of the textbook, which was written for this course by the instructor. Questions and comments were encouraged.
+- The last 2 weeks were spent on oral presentations given by students to satisfy the final project requirement.
 
-Out of Class
-------------
+### Out of Class
 
-*   [Readings and assignments]({{< baseurl >}}/pages/readings)
-*   [Final project]({{< baseurl >}}/pages/projects)
-*   Office hours: Dr. Spivak offered 2 office hours per week, but often spent an additional hour with students before homework was due. Students were highly encouraged to come to office hours.
+- {{% resource_link a1137e8a-1df4-6532-e854-5f834ba89cf9 "Readings and assignments" %}}
+- {{% resource_link 77876f98-d3aa-c1b7-bbd1-27c66dd48b01 "Final project" %}}
+- Office hours: Dr. Spivak offered 2 office hours per week, but often spent an additional hour with students before homework was due. Students were highly encouraged to come to office hours.
