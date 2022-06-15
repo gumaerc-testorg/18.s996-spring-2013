@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of course goals and information
+  on meeting times, prerequisites, books, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -21,7 +23,7 @@ Books
 
 The required textbook for this course is available online:
 
-Spivak, David I. [_Category Theory for Scientists_]({{< baseurl >}}/pages/textbook), 2013.
+Spivak, David I. {{% resource_link 333ad9bb-2d71-e34a-415e-d9460aa39115 "_Category Theory for Scientists_" %}}, 2013.
 
 The following book is also recommended:
 
@@ -45,7 +47,7 @@ Attending lecture is mandatory. Class participation is 33% of your grade. It's c
 
 Homework is also worth 33% of your grade. It will be collected weekly. Late homework will generally not be accepted. Just turn in what you have when the homework is due.
 
-The rest of your grade is based on your final project. This can either be an oral presentation or a publishable document. See the [Projects]({{< baseurl >}}/pages/projects) section for more details.
+The rest of your grade is based on your final project. This can either be an oral presentation or a publishable document. See the {{% resource_link 77876f98-d3aa-c1b7-bbd1-27c66dd48b01 "Projects" %}} section for more details.
 
 {{< tableopen >}}
 {{< theadopen >}}

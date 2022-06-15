@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-s996-category-theory-for-scientists-spring-2013/c9eac512658d2b14b12fc839dddff249_18-S996_classroom-1.png
+file: /courses/18-s996-category-theory-for-scientists-spring-2013/c9eac512658d2b14b12fc839dddff249_18-S996_classroom-1.png
 file_type: image/png
 image_metadata:
   caption: ''
