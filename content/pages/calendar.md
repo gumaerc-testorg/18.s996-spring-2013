@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of course topics and student
+  presentations.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 216be550-e277-1dd3-0110-fb584cb03b54
 ---
 
 Topics listed in the table correspond to **chapters** and sections in the textbook:
 
-Spivak, David I. [_Category Theory for Scientists_]({{< baseurl >}}/pages/textbook), 2013.
+Spivak, David I. {{% resource_link 333ad9bb-2d71-e34a-415e-d9460aa39115 "_Category Theory for Scientists_" %}}, 2013.
 
 Sessions 30–36 list the topics for the students' final project presentations.
 

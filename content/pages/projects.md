@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides options for the final project of the course and
+  examples of student work.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 77876f98-d3aa-c1b7-bbd1-27c66dd48b01
 ---
@@ -20,11 +25,11 @@ You are encouraged to give an oral presentation to the class about a topic of yo
 
 ### Student Examples
 
-[English to Olog Transation or: how I learned to stop worrying and love the Olog (PDF)]({{< baseurl >}}/resources/mit18_s996s13_eng2ologs)
+{{% resource_link 0392ab0e-0aa4-77e8-88a9-74e7633faab0 "English to Olog Transation or: how I learned to stop worrying and love the Olog (PDF)" %}}
 
-[Illustration of Category Hilb with examples in Atomic and Optical Physics (PDF)]({{< baseurl >}}/resources/mit18_s996s13_categoryhilb)
+{{% resource_link 55c2ef59-0fc4-492a-1771-49aeebbc2dc5 "Illustration of Category Hilb with examples in Atomic and Optical Physics (PDF)" %}}
 
-[Proving Causality in Social Science: A Potential Application of Ologs (PDF - 1.3MB)]({{< baseurl >}}/resources/mit18_s996s13_procausality)
+{{% resource_link a9f2a10c-c75e-3036-5207-f9c81cb9ccf5 "Proving Causality in Social Science: A Potential Application of Ologs (PDF - 1.3MB)" %}}
 
 Option 2: Publishable Document
 ------------------------------
@@ -37,4 +42,4 @@ A second option is to typeset a document in which you solve 80 of the exercises 
 
 ### Student Example
 
-[In search of a Monad for system call abstractions (PDF)]({{< baseurl >}}/resources/mit18_s996s13_monad)
+{{% resource_link 1920eed7-eb32-5a41-72a2-8b4aa7132b92 "In search of a Monad for system call abstractions (PDF)" %}}
