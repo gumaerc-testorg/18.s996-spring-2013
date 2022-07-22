@@ -5,6 +5,7 @@ file: /courses/18-s996-category-theory-for-scientists-spring-2013/1920eed7eb325a
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '18.S996S13 Project: In search of a Monad'
 uid: 1920eed7-eb32-5a41-72a2-8b4aa7132b92
 ---
 This resource contains information regarding Monad.
-

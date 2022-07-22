@@ -5,6 +5,7 @@ file: /courses/18-s996-category-theory-for-scientists-spring-2013/4b7221e4a44bf9
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '18.S996S13 Textbook: Introduction'
 uid: 4b7221e4-a44b-f9ad-512e-ae6efe9d76b8
 ---
 This resource contains information regarding introduction.
-

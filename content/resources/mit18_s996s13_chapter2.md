@@ -5,6 +5,7 @@ file: /courses/18-s996-category-theory-for-scientists-spring-2013/7cb36ef846a0cf
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '18.S996S13 Textbook: Category of Sets'
 uid: 7cb36ef8-46a0-cff8-4b34-cda2e7742122
 ---
 This resource contains information regarding the category of sets.
-

@@ -5,6 +5,7 @@ file: /courses/18-s996-category-theory-for-scientists-spring-2013/9cf51d1394fc10
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Category Theory for Scientists text
 uid: 9cf51d13-94fc-107b-aa67-64d553dd0bb6
 ---
 Category Theory for Scientists complete text with cover
-

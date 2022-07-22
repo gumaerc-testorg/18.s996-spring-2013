@@ -6,6 +6,7 @@ file: /courses/18-s996-category-theory-for-scientists-spring-2013/27c14ddd6a3e99
 file_type: application/pdf
 learning_resource_types:
 - Online Textbooks
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '18.S996S13 Textbook: Categories and Functors, without Admitting it'
 uid: 27c14ddd-6a3e-9911-888a-138fb0b712e3
 ---
 This resource contains information regarding categories and functors, without admitting it.
-
