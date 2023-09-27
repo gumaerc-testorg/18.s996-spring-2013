@@ -41,8 +41,10 @@
   },
   "learning_resource_types": [
     "Projects with Examples",
-    "Online Textbook"
+    "Online Textbook",
+    "Instructor Insights"
   ],
-  "site_uid": "670198ba-4b5d-4e08-aefd-3a86fd4d6db9",
+  "site_uid": "05b8fea3-4d63-4944-8aec-51b237836f7a",
+  "site_short_id": "18.s996-spring-2013",
   "title": "Course Metadata"
 }
