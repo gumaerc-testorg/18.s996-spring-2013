@@ -4,7 +4,7 @@ description: This section contains the course textbook, as well as a link to a s
   to leave comments or questions on the course textbook.
 draft: false
 learning_resource_types:
-- Online Textbooks
+- Online Textbook
 ocw_type: CourseSection
 title: Textbook
 uid: 333ad9bb-2d71-e34a-415e-d9460aa39115
