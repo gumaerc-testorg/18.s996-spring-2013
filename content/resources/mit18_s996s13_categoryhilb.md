@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding illustration of category
   Hilb.
 file: /courses/18-s996-category-theory-for-scientists-spring-2013/55c2ef590fc4492a177149aeebbc2dc5_MIT18_S996S13_CategoryHilb.pdf
+file_size: 859205
 file_type: application/pdf
 learning_resource_types:
 - Projects
