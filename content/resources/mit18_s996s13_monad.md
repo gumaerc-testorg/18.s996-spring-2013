@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Monad.
 file: /courses/18-s996-category-theory-for-scientists-spring-2013/1920eed7eb325a4172a28b4aa7132b92_MIT18_S996S13_Monad.pdf
+file_size: 332325
 file_type: application/pdf
 learning_resource_types:
 - Projects
