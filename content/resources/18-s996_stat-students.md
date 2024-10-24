@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-s996-category-theory-for-scientists-spring-2013/af26b3f1e29aef0784fb9d9e9bab1d94_18-S996_stat-students.png
+file: /ol-ocw-studio-app/courses/18-s996-category-theory-for-scientists-spring-2013/af26b3f1e29aef0784fb9d9e9bab1d94_18-S996_stat-students.png
 file_size: 2865
 file_type: image/png
 image_metadata:
