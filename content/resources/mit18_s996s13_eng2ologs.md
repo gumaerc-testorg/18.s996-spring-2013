@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding english to olog transation.
-file: /ol-ocw-studio-app/courses/18-s996-category-theory-for-scientists-spring-2013/0392ab0e0aa477e888a974e7633faab0_MIT18_S996S13_Eng2Ologs.pdf
+file: /courses/18-s996-category-theory-for-scientists-spring-2013/0392ab0e0aa477e888a974e7633faab0_MIT18_S996S13_Eng2Ologs.pdf
 file_size: 887598
 file_type: application/pdf
 learning_resource_types:
