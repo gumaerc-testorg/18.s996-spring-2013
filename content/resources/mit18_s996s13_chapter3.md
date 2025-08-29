@@ -2,11 +2,11 @@
 content_type: resource
 description: This resource contains information regarding categories and functors,
   without admitting it.
-file: /courses/18-s996-category-theory-for-scientists-spring-2013/27c14ddd6a3e9911888a138fb0b712e3_MIT18_S996S13_chapter3.pdf
+file: /ol-ocw-studio-app/courses/18-s996-category-theory-for-scientists-spring-2013/27c14ddd6a3e9911888a138fb0b712e3_MIT18_S996S13_chapter3.pdf
 file_size: 1065066
 file_type: application/pdf
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook

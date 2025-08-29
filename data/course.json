@@ -41,10 +41,11 @@
   },
   "learning_resource_types": [
     "Projects with Examples",
-    "Online Textbook",
+    "Open Textbooks",
     "Instructor Insights"
   ],
   "site_uid": "05b8fea3-4d63-4944-8aec-51b237836f7a",
   "site_short_id": "18.s996-spring-2013",
+  "site_url_path": "courses/18-s996-category-theory-for-scientists-spring-2013",
   "title": "Course Metadata"
 }
