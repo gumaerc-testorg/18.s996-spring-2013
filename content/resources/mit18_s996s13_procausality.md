@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding proving causality in social
   science.
-file: /courses/18-s996-category-theory-for-scientists-spring-2013/a9f2a10cc75e30365207f9c81cb9ccf5_MIT18_S996S13_ProCausality.pdf
+file: /ol-ocw-studio-app/courses/18-s996-category-theory-for-scientists-spring-2013/a9f2a10cc75e30365207f9c81cb9ccf5_MIT18_S996S13_ProCausality.pdf
 file_size: 1320867
 file_type: application/pdf
 learning_resource_types:

@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource contains information regarding the category of sets.
-file: /courses/18-s996-category-theory-for-scientists-spring-2013/7cb36ef846a0cff84b34cda2e7742122_MIT18_S996S13_chapter2.pdf
+file: /ol-ocw-studio-app/courses/18-s996-category-theory-for-scientists-spring-2013/7cb36ef846a0cff84b34cda2e7742122_MIT18_S996S13_chapter2.pdf
 file_size: 1058022
 file_type: application/pdf
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook

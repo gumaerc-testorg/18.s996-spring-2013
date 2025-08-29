@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This resource contains information regarding introduction.
-file: /courses/18-s996-category-theory-for-scientists-spring-2013/4b7221e4a44bf9ad512eae6efe9d76b8_MIT18_S996S13_chapter1.pdf
+file: /ol-ocw-studio-app/courses/18-s996-category-theory-for-scientists-spring-2013/4b7221e4a44bf9ad512eae6efe9d76b8_MIT18_S996S13_chapter1.pdf
 file_size: 430213
 file_type: application/pdf
 learning_resource_types:
-- Online Textbook
+- Open Textbooks
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Textbook
