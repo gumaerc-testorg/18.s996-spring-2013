@@ -230,8 +230,8 @@ Summarize your experience in this class
 Perhaps also of Interest
 ------------------------
 
-Baez, John C., and Mike Stay. "{{% resource_link "8b6651ad-ecda-4a87-b4f9-2eaf1b48a914" "Physics, Topology, Logic, and Computation: A Rosetta Stone" %}}." March 2, 2009.
+Baez, John C., and Mike Stay. "[Physics, Topology, Logic, and Computation: A Rosetta Stone](http://arxiv.org/abs/0903.0340)." March 2, 2009.
 
-Gromov, Misha. "{{% resource_link "8c3988c7-fe44-471a-8350-db9262843a26" "In a Search for a Structure, Part 1: On Entropy.\" (PDF)" %}} July 10, 2012.
+Gromov, Misha. "[In a Search for a Structure, Part 1: On Entropy." (PDF)](http://math.mit.edu/~dspivak/teaching/sp13/gromov--EntropyViaCT.pdf) July 10, 2012.
 
-Weinstein, Alan. "{{% resource_link "28bc0fee-8d82-4a01-af94-bde7c4f91f62" "Groupoids Unifying Internal and External Symmetry: A Tour through Some Examples" %}}." _Notices of the American Mathematical Society_ 43 (1996): 744–52.
+Weinstein, Alan. "[Groupoids Unifying Internal and External Symmetry: A Tour through Some Examples](http://citeseerx.ist.psu.edu/viewdoc/summary;jsessionid=254512399AC565D2C6D35415DD629541?doi=10.1.1.217.4695)." _Notices of the American Mathematical Society_ 43 (1996): 744–52.

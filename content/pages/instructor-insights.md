@@ -51,7 +51,7 @@ None
 
 ### Requirements Satisfied
 
-{{% resource_link "1fe924db-7e82-48a6-9e59-b0a2554db741" "H-Level" %}} grad credit
+[H-Level](http://web.mit.edu/registrar/subjects/credit.html) grad credit
 
 ### Offered
 

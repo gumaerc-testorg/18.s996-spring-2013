@@ -13,7 +13,7 @@ All readings and assignments are from the textbook, which is available online:
 
 Complete textbook as a single file ({{% resource_link 9cf51d13-94fc-107b-aa67-64d553dd0bb6 "PDF - 4.3MB" %}})
 
-To leave comments or questions about the book, go to {{% resource_link "915d9ad0-bc7a-4195-8b03-7cfb34cda775" "CT4S suggestions" %}}.
+To leave comments or questions about the book, go to [CT4S suggestions](https://docs.google.com/document/d/1J2AGqTTBRenZyeUnFvCbXnFVjK5zzEFzMRS245M4wAc/edit?pli=1).
 
 {{% resource_link 4b7221e4-a44b-f9ad-512e-ae6efe9d76b8 "1 Introduction (PDF)" %}} 
 
